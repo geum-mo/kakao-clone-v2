@@ -1,0 +1,11 @@
+.friend {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: red;
+}
+
+.friend .friend__column {
+  display: flex;
+  align-content: center;
+}
